@@ -7,22 +7,28 @@ body{
     width: 100%;
 
 
-<<<<<<< Updated upstream
-
-   
-=======
     background-color: #DFE0E2;
->>>>>>> Stashed changes
 
     p {
         font-size: 1.05em;
         color:#000;
         text-align: justify;
-        padding: 5vh 16vw 5vh 16vw;
+        
         height: auto;
 
 
+    }
+    .container{
+    padding: 1vh 16vw 1vh 16vw;
+    }
 
+    a{
+        text-decoration: none;
+        color:#4d7e8d;
+        transition: 0.7s;
+    }
+    a:hover{
+        font-size: 110%;
     }
 
     h1 {
