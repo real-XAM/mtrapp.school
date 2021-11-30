@@ -26,10 +26,6 @@ body a {
   transition: 0.7s;
 }
 
-body a:hover {
-  font-size: 110%;
-}
-
 body h1 {
   color: #75ABBC;
   text-align: center;
