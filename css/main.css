@@ -22,8 +22,6 @@ body .container {
 body a {
   text-decoration: none;
   color: #4d7e8d;
-  -webkit-transition: 0.7s;
-  transition: 0.7s;
 }
 
 body h1 {
